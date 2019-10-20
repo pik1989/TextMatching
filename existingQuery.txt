@@ -1,0 +1,1 @@
+Time Series data is vastly used across various domains for forecasting. Forecasting the future can be beneficial for the analysts and management in making better calculated decisions to maximise returns and minimise risks.
