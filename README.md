@@ -5,4 +5,4 @@ This is basically a Web application of Text Matching using Python-Flask, based o
 
 # To get started, follow this blog:
 
-https://beingdatum.com/?p=1357
+https://beingdatum.com/text-matching-using-cosine-similarity-flask-api/
